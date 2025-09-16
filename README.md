@@ -2,6 +2,9 @@
 
 A simple banking REST API built with Spring Boot 3, exposing endpoints to manage customers and accounts, perform deposits/withdrawals, and transfer funds between accounts. Uses Spring Data JPA with PostgreSQL.
 
+## Related Repositories
+- [Frontend (UI)](https://github.com/RenuPrasad5/Banking-Ui)
+
 ## Tech Stack
 - Java 17
 - Spring Boot 3 (Web, Data JPA)
